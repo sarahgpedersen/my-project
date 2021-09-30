@@ -1,3 +1,3 @@
 ====================================
- REANA example - "my project"
+ CERN Student project - "math project rewritten"
 ====================================
