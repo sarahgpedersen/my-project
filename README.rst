@@ -1,3 +1,3 @@
 ====================================
- CERN Student project - "math project rewritten"
+ CERN Student project - "math assignment rewritten"
 ====================================
